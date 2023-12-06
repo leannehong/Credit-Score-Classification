@@ -8,8 +8,8 @@ Next, I train and evaluate by using Random Forest Classifier to help create pred
 
 Finally, the user can use our model by inputting their information to determine their credit score.
 
-----
+
 # Resources
 
-[^1]https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/#google_vignette
+[^1]: https://thecleverprogrammer.com/2022/12/05/credit-score-classification-with-machine-learning/#google_vignette
 https://github.com/allanssematimba/Credit-Score-Classification/tree/main
